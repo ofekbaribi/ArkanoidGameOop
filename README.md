@@ -3,9 +3,6 @@
 ## Project Overview
 
 Object-oriented programming project, Arkanoid game  
-Apr 2023 - Jun 2023
-
-Associated with Bar-Ilan University
 
 This project is an implementation of the classic Arkanoid game using Object-Oriented Programming (OOP) principles. The game involves controlling a paddle to bounce a ball and break bricks on the screen. The primary focus of the project was to create a modular and reusable codebase that adheres to OOP best practices.
 
@@ -15,6 +12,10 @@ This project is an implementation of the classic Arkanoid game using Object-Orie
 - **Modular Design**: The game's architecture is designed for flexibility and reusability, making it easy to extend and maintain.
 - **GUI**: Utilizes Java’s graphical user interface (GUI) components to create an interactive user experience.
 - **OOP Principles**: The project emphasizes core OOP principles such as polymorphism, inheritance, delegation, and the use of abstract classes and design patterns like Observers.
+
+![Gameplay Screenshot 1](./.idea/1713194517991.jfif)
+![Gameplay Screenshot 2](./.idea/1713194545034.jfif)
+![Gameplay Screenshot 3](./.idea/1713194573760.jfif)
 
 ## How to Run
 
